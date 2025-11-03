@@ -1,4 +1,3 @@
 streamlit>=1.28.0
-opencv-python>=4.5.0
-Pillow>=8.0.0
-numpy>=1.19.0
+Pillow>=10.0.0
+numpy>=1.24.0
